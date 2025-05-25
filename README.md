@@ -10,7 +10,7 @@ Me considero una persona **proactiva**, **responsable** y con una gran capacidad
 Apasionado por la **tecnología**, la **computación** y todo lo relacionado a los **sistemas informáticos**.  
 Además, cuento con **competencia profesional avanzada en inglés**.
 
-En lo extracurricular, soy un entusiasta del **cine**, la **buena música**, los **juegos**, los **viajes** y la **familia**.
+En lo extracurricular, soy un entusiasta de la **tecnología en general** del **cine**, de la **música**, los **video juegos nuevos y retro**, los **viajes** y la **familia**.
 
 ---
 
