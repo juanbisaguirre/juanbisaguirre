@@ -70,5 +70,14 @@ En lo extracurricular, soy un entusiasta de la **tecnología en general** del **
 - 📧 [juanbisadev@gmail.com](mailto:juanbisadev@gmail.com)
 
 ---
+<p>
+  Escaneá este código para escribirme directo por WhatsApp 👇  
+</p>
+
+<p align="left">
+  <img src="./wa.link_4qsfw2.png" alt="QR WhatsApp Juan" width="150" />
+</p>
+
+---
 
 <p align="center">Gracias por pasar por mi perfil. ¡Conectemos! 🚀</p>
