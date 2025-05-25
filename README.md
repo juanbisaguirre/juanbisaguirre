@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Juan Bisaguirre 👋</h1>
-<p align="center">💻 Desarrollador Web Full-Stack | 🎓 Estudiante de Desarrollo de Software</p>
+<p align="center">💻 Desarrollador Web Full-Stack | 🎓 Tecnico Universitario en Desarrollo de Software</p>
 
 ---
 
